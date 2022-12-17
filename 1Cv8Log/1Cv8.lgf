@@ -22,4 +22,12 @@ f1a82e9c-dd78-4091-b7b6-cc78ab1a6d1f
 {4,"_$Transaction$_.Begin",10},
 {4,"_$Data$_.PredefinedDataInitialization",11},
 {5,5d0fb118-42bf-4ce1-836c-2e72f03896f8,"Справочник.Контрагенты",3},
-{4,"_$Transaction$_.Commit",12}
+{4,"_$Transaction$_.Commit",12},
+{5,1a406d67-181b-49c6-b2d7-ba30d17b3fc6,"Справочник.Склады",2},
+{5,6f6f001a-047d-40b4-8d58-188e70a9c8d9,"",4},
+{4,"_$Data$_.New",13},
+{5,6f6f001a-047d-40b4-8d58-188e70a9c8d9,"Справочник.Номенклатура",4},
+{4,"_$Data$_.Update",14},
+{4,"_$Data$_.Delete",15},
+{4,"_$Transaction$_.Rollback",16},
+{3,"BackgroundJob",4}

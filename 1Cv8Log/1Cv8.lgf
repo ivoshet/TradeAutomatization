@@ -30,4 +30,10 @@ f1a82e9c-dd78-4091-b7b6-cc78ab1a6d1f
 {4,"_$Data$_.Update",14},
 {4,"_$Data$_.Delete",15},
 {4,"_$Transaction$_.Rollback",16},
-{3,"BackgroundJob",4}
+{3,"BackgroundJob",4},
+{5,998f113f-9458-41e5-807e-acb6d4cbac61,"",5},
+{5,5d63292d-452b-4474-9dc3-a19aae746423,"",6},
+{5,998f113f-9458-41e5-807e-acb6d4cbac61,"Справочник.Банки",5},
+{4,"_$Data$_.DeletePredefinedData",17},
+{5,9617ec3f-6022-47c9-8039-695bb8496b4d,"Документ.ЗаказПоставщику",7},
+{4,"_$Data$_.Post",18}

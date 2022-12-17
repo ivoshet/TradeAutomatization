@@ -1,0 +1,25 @@
+﻿1CV8LOG(ver 2.0)
+f1a82e9c-dd78-4091-b7b6-cc78ab1a6d1f
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"ivoshet-W65-67SB",1},
+{3,"1CV8",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$Session$_.Finish",3},
+{3,"Designer",2},
+{3,"1CV8C",3},
+{4,"_$InfoBase$_.ConfigUpdate",4},
+{4,"_$InfoBase$_.DBConfigUpdateStart",5},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,eaac42c2-cf21-41f8-9221-9b7c0b6215c8,"",1},
+{4,"_$InfoBase$_.DumpStart",8},
+{4,"_$InfoBase$_.DumpFinish",9},
+{5,1a406d67-181b-49c6-b2d7-ba30d17b3fc6,"",2},
+{5,5d0fb118-42bf-4ce1-836c-2e72f03896f8,"",3},
+{4,"_$Transaction$_.Begin",10},
+{4,"_$Data$_.PredefinedDataInitialization",11},
+{5,5d0fb118-42bf-4ce1-836c-2e72f03896f8,"Справочник.Контрагенты",3},
+{4,"_$Transaction$_.Commit",12}
